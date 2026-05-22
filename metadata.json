@@ -1,0 +1,6 @@
+{
+  "name": "OCR Pro",
+  "description": "A Single Page Application for document text recognition using OCR with support for images and PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
